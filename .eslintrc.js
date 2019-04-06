@@ -92,10 +92,17 @@ module.exports = {
 				"singleQuote": true,
 				"printWidth": 80,
 			}
+		],
+		"node/shebang": [
+			"error",
+			{
+				"convertPath": null
+			}
 		]
 	},
 	"plugins": [
 		"html",
-		"prettier"
+		"prettier",
+		"node"
 	]
 }
