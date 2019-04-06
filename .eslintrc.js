@@ -93,12 +93,7 @@ module.exports = {
 				"printWidth": 80,
 			}
 		],
-		"node/shebang": [
-			"error",
-			{
-				"convertPath": null
-			}
-		]
+		"node/shebang": 2
 	},
 	"plugins": [
 		"html",
