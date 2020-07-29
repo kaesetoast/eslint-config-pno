@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pno",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "My eslint-configuration",
   "main": "index.js",
   "repository": {
